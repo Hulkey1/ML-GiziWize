@@ -9,7 +9,7 @@ An application to calculate the nutritional value of foods to address the common
 1. Indonesian Food Composition (Link)
 
 
-## Model Regression
+## Predict Nutrition Food
   ## Input Nama_Makanan
   ## Input Porsi Makanan
   ## Output Model
